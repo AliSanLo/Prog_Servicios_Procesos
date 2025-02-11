@@ -21,6 +21,7 @@ Comunicación entre Procesos (IPC)
 - Uso de ficheros compartidos para comunicación entre procesos
 
 
+
 Processes and Threads
 - Differences between processes and threads
 - Process states (creation, execution, waiting, termination)
